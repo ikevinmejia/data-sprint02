@@ -14,7 +14,9 @@
         {
             "id": "1",
             "points": "20",
-            "titulo": "In this interview, Elon Musk talks about the future on Mars, what is his prediction?",
+            "titulo": "In an interview",
+            "descripcion": "Elon Musk talk about the future on Mars",
+            "pregunta": "In this interview, Elon Musk talks about the future on Mars, what is his prediction?",
             "video" : "https://www.youtube.com/watch?v=zzjjA25ttp4",
             "duracion": "3.4",
             "opciones": [
@@ -39,7 +41,9 @@
         {
             "id": "2",
             "points": "15",
-            "titulo": "What does Obama say about polarizing the president?",
+            "titulo": "Talk of a president",
+            "descripcion": "Talking about polarization",
+            "pregunta": "What does Obama say about polarizing the president?",
             "video" : "https://www.youtube.com/watch?v=MKt1KpGg0vg",
             "duracion": "2.3",
             "opciones": [
@@ -64,7 +68,9 @@
         {
             "id": "3",
             "points": "40",
-            "titulo": "According to the Columbia University study narrated by the speaker, what do we mean when we have a lot of work?",
+            "titulo": "TED Talk: being busy",
+            "descripcion": "Motivational talk about time",
+            "pregunta": "According to the Columbia University study narrated by the speaker, what do we mean when we have a lot of work?",
             "video" : "https://youtu.be/dr1-fPkTxZM",
             "duracion": "7.4",
             "opciones": [
@@ -89,7 +95,9 @@
         {
             "id": "4",
             "points": "100",
-            "titulo": "According to the approach of the TED talk about the four-day work week, why is this measure good for the environment, the company, the worker and society?",
+            "titulo": "TED Talk: four-day work",
+            "descripcion": "Talking about the need to have four days of work",
+            "pregunta": "According to the approach of the TED talk about the four-day work week, why is this measure good for the environment, the company, the worker and society?",
             "video" : "https://www.youtube.com/watch?v=MyVfUaXyyqo",
             "duracion": "11.4",
             "opciones": [
@@ -114,7 +122,9 @@
         {
             "id": "5",
             "points": "8",
-            "titulo": "Traveling is something that is commonly enjoyed but for Thomas Girard it is a pleasure for visiting airports. According to Thomas, what do you recommend doing to feel at home in an airport?",
+            "titulo": "TED Talk: To travel",
+            "descripcion": "How to travel feeling at home",
+            "pregunta": "Traveling is something that is commonly enjoyed but for Thomas Girard it is a pleasure for visiting airports. According to Thomas, what do you recommend doing to feel at home in an airport?",
             "video" : "https://www.youtube.com/watch?v=U3kn3qagwu4",
             "duracion": "2",
             "opciones": [
@@ -139,7 +149,9 @@
         {
             "id": "6",
             "points": "100",
-            "titulo": "For Damon McLeese, creativity is on the side of conformity and accordingly he teaches graffiti to people with Alzheimer's and dementia. Accordingly, what skills does this activity increase?",
+            "titulo": "TED Talk: the creativity",
+            "descripcion": "Drawing: good for all ages",
+            "pregunta": "For Damon McLeese, creativity is on the side of conformity and accordingly he teaches graffiti to people with Alzheimer's and dementia. Accordingly, what skills does this activity increase?",
             "video" : "https://www.youtube.com/watch?v=n7nAQDoEAeY",
             "duracion": "13",
             "opciones": [
@@ -164,7 +176,9 @@
         {
             "id": "7",
             "points": "80",
-            "titulo": "Polyglots are people who speak or master more than three languages and Lýdia Machová is one of them. In this TED talk he tells us what is the secret to learning a new language, now what is it?",
+            "titulo": "TED Talk: To learn a new language",
+            "descripcion": "The secret to learning a new language is...",
+            "pregunta": "Polyglots are people who speak or master more than three languages and Lýdia Machová is one of them. In this TED talk he tells us what is the secret to learning a new language, now what is it?",
             "video" : "https://www.youtube.com/watch?v=o_XVt5rdpFY",
             "duracion": "10.4",
             "opciones": [
@@ -189,7 +203,9 @@
         {
             "id": "8",
             "points": "100",
-            "titulo": "According to Susan Cain, introverts comprise a third of the world's population, so they enjoy moments with little stimulation. Accordingly, which of the following would be a stimulus for an introverted person?",
+            "titulo": "TED Talk: Introverted people",
+            "descripcion": "Talk about the importance of people's personality",
+            "pregunta": "According to Susan Cain, introverts comprise a third of the world's population, so they enjoy moments with little stimulation. Accordingly, which of the following would be a stimulus for an introverted person?",
             "video" : "https://www.youtube.com/watch?v=c0KYU2j0TM4",
             "duracion": "19",
             "opciones": [
@@ -214,7 +230,9 @@
         {
             "id": "9",
             "points": "150",
-            "titulo": "According to the TED talk of the scientist and researcher Suzanne Simard, she affirms according to her findings that forests communicate with each other. Now, what is one of the reasons why they do it?",
+            "titulo": "TED Talk: botanical science",
+            "descripcion": "Can forests communicate? how do they do that?",
+            "pregunta": "According to the TED talk of the scientist and researcher Suzanne Simard, she affirms according to her findings that forests communicate with each other. Now, what is one of the reasons why they do it?",
             "video" : "https://www.youtube.com/watch?v=Un2yBgIAxYs",
             "duracion": "18.2",
             "opciones": [
@@ -239,7 +257,9 @@
         {
             "id": "10",
             "points": "180",
-            "titulo": "Linus Torvalds is one of the most important developers in the world, he invented the Linux operating system present on the device where you read this. According to the interview, how did the Linux project become an open source project?",
+            "titulo": "Ted Talk: Linus Torvalds",
+            "descripcion": "An interview with the creator of Linux",
+            "pregunta": "Linus Torvalds is one of the most important developers in the world, he invented the Linux operating system present on the device where you read this. According to the interview, how did the Linux project become an open source project?",
             "video" : "https://www.youtube.com/watch?v=o8NPllzkFhE",
             "duracion": "21.3",
             "opciones": [
