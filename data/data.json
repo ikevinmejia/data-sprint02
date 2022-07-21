@@ -1,0 +1,265 @@
+{
+    "user": [
+        {
+            "id": "1",
+            "name": "Chrisjen",
+            "email": "avasarala@un.com",
+            "phone": "123456789",
+            "password": "1234",
+            "coins": "0"
+        }
+    ],
+
+    "quiz": [
+        {
+            "id": "1",
+            "points": "20",
+            "titulo": "In this interview, Elon Musk talks about the future on Mars, what is his prediction?",
+            "video" : "https://www.youtube.com/watch?v=zzjjA25ttp4",
+            "duracion": "3.4",
+            "opciones": [
+                {
+                    "textoRespuesta": "It is a reality, even in 50 years we can explore beyond the moons of Jupiter",
+                    "isCorrect": "true"
+                },
+                {
+                    "textoRespuesta": "It's too hard to get to Mars",
+                    "isCorrect": "false"
+                },
+                {
+                    "textoRespuesta": "We will have a problem with gasoline and twitter haters",
+                    "isCorrect": "false"
+                },
+                {
+                    "textoRespuesta": "Entrepreneurs hire Beyonce and Adele for a musical collaboration",
+                    "isCorrect": "false"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "points": "15",
+            "titulo": "What does Obama say about polarizing the president?",
+            "video" : "https://www.youtube.com/watch?v=MKt1KpGg0vg",
+            "duracion": "2.3",
+            "opciones": [
+                {
+                    "textoRespuesta": "Cause singers only tour in America",
+                    "isCorrect": "false"
+                },
+                {
+                    "textoRespuesta": "The media and Congress obstruct the mandate when opinion is divided.",
+                    "isCorrect": "true"
+                },
+                {
+                    "textoRespuesta": "Cats make a lot of noise when they are mating",
+                    "isCorrect": "false"
+                },
+                {
+                    "textoRespuesta": "There have only been white presidents",
+                    "isCorrect": "false"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "points": "40",
+            "titulo": "According to the Columbia University study narrated by the speaker, what do we mean when we have a lot of work?",
+            "video" : "https://youtu.be/dr1-fPkTxZM",
+            "duracion": "7.4",
+            "opciones": [
+                {
+                    "textoRespuesta": "It means there's no time to listen to Adele",
+                    "isCorrect": "false"
+                },
+                {
+                    "textoRespuesta": "I need to have a car, traffic takes up a lot of time",
+                    "isCorrect": "false"
+                },
+                {
+                    "textoRespuesta": "I am important, efficient, the team needs me, I am useful to the organization",
+                    "isCorrect": "true"
+                },
+                {
+                    "textoRespuesta": "Research does not speak the reality of the general population",
+                    "isCorrect": "false"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "points": "100",
+            "titulo": "According to the approach of the TED talk about the four-day work week, why is this measure good for the environment, the company, the worker and society?",
+            "video" : "https://www.youtube.com/watch?v=MyVfUaXyyqo",
+            "duracion": "11.4",
+            "opciones": [
+                {
+                    "textoRespuesta": "Companies need less labor, so they pay less.",
+                    "isCorrect": "false"
+                },
+                {
+                    "textoRespuesta": "Stress is a public health issue.",
+                    "isCorrect": "false"
+                },
+                {
+                    "textoRespuesta": "Working less is a trend, so following this rule is popular",
+                    "isCorrect": "false"
+                },
+                {
+                    "textoRespuesta": "The carbon footprint is reduced, the individual useful time increases as well as human interaction, thus reducing work stress.",
+                    "isCorrect": "true"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "points": "8",
+            "titulo": "Traveling is something that is commonly enjoyed but for Thomas Girard it is a pleasure for visiting airports. According to Thomas, what do you recommend doing to feel at home in an airport?",
+            "video" : "https://www.youtube.com/watch?v=U3kn3qagwu4",
+            "duracion": "2",
+            "opciones": [
+                {
+                    "textoRespuesta": "Haggle with the locals in the new destination",
+                    "isCorrect": "false"
+                },
+                {
+                    "textoRespuesta": "Enjoy the moment as if you were at home, enjoy a Coke, look at the sky, and remember festivities.",
+                    "isCorrect": "true"
+                },
+                {
+                    "textoRespuesta": "Always bring a wine. You never know when to have a Tempranillo.",
+                    "isCorrect": "false"
+                },
+                {
+                    "textoRespuesta": "Tomato with bread, a pair that you cannot miss.",
+                    "isCorrect": "false"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "points": "100",
+            "titulo": "For Damon McLeese, creativity is on the side of conformity and accordingly he teaches graffiti to people with Alzheimer's and dementia. Accordingly, what skills does this activity increase?",
+            "video" : "https://www.youtube.com/watch?v=n7nAQDoEAeY",
+            "duracion": "13",
+            "opciones": [
+                {
+                    "textoRespuesta": "Plumbing is useful to know old pipes and change them.",
+                    "isCorrect": "false"
+                },
+                {
+                    "textoRespuesta": "Drawing increases motor skills and spatial awareness",
+                    "isCorrect": "true"
+                },
+                {
+                    "textoRespuesta": "Carpentry enhances the abilities of being.",
+                    "isCorrect": "false"
+                },
+                {
+                    "textoRespuesta": "Learning languages changes people's personality",
+                    "isCorrect": "false"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "points": "80",
+            "titulo": "Polyglots are people who speak or master more than three languages and Lýdia Machová is one of them. In this TED talk he tells us what is the secret to learning a new language, now what is it?",
+            "video" : "https://www.youtube.com/watch?v=o_XVt5rdpFY",
+            "duracion": "10.4",
+            "opciones": [
+                {
+                    "textoRespuesta": "There is no secret, everyone learns in a different way, adapting it to their daily lives.",
+                    "isCorrect": "true"
+                },
+                {
+                    "textoRespuesta": "Watch the Friends series in different languages.",
+                    "isCorrect": "false"
+                },
+                {
+                    "textoRespuesta": "Make fake conversations with natives to learn their local slang.",
+                    "isCorrect": "false"
+                },
+                {
+                    "textoRespuesta": "Learn the 500 most used words in that language.",
+                    "isCorrect": "false"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "points": "100",
+            "titulo": "According to Susan Cain, introverts comprise a third of the world's population, so they enjoy moments with little stimulation. Accordingly, which of the following would be a stimulus for an introverted person?",
+            "video" : "https://www.youtube.com/watch?v=c0KYU2j0TM4",
+            "duracion": "19",
+            "opciones": [
+                {
+                    "textoRespuesta": "Go out to places with a lot of noise and people",
+                    "isCorrect": "false"
+                },
+                {
+                    "textoRespuesta": "Risk making decisions without thinking about it",
+                    "isCorrect": "false"
+                },
+                {
+                    "textoRespuesta": "Being recognized at school for good grades",
+                    "isCorrect": "false"
+                },
+                {
+                    "textoRespuesta": "Stay in a place without much noise, enjoying your surroundings.",
+                    "isCorrect": "true"
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "points": "150",
+            "titulo": "According to the TED talk of the scientist and researcher Suzanne Simard, she affirms according to her findings that forests communicate with each other. Now, what is one of the reasons why they do it?",
+            "video" : "https://www.youtube.com/watch?v=Un2yBgIAxYs",
+            "duracion": "18.2",
+            "opciones": [
+                {
+                    "textoRespuesta": "They don't communicate, it's a lie.",
+                    "isCorrect": "false"
+                },
+                {
+                    "textoRespuesta": "The radioactive carbon attracts bears, so the forest protects them.",
+                    "isCorrect": "false"
+                },
+                {
+                    "textoRespuesta": "They help keep the water from evaporating to avoid dehydration.",
+                    "isCorrect": "false"
+                },
+                {
+                    "textoRespuesta": "They help preserve the ecosystem, through mycorrhizae they exchange nutrients so that the weakest can survive.",
+                    "isCorrect": "true"
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "points": "180",
+            "titulo": "Linus Torvalds is one of the most important developers in the world, he invented the Linux operating system present on the device where you read this. According to the interview, how did the Linux project become an open source project?",
+            "video" : "https://www.youtube.com/watch?v=o8NPllzkFhE",
+            "duracion": "21.3",
+            "opciones": [
+                {
+                    "textoRespuesta": "At the age of 21, he released his code and loved the feedback from other people on how to improve his personal project.",
+                    "isCorrect": "true"
+                },
+                {
+                    "textoRespuesta": "Thanks to its green walls that motivated him to have more cats, the purr inspired him.",
+                    "isCorrect": "false"
+                },
+                {
+                    "textoRespuesta": "Commercial pressure forced him to release the project.",
+                    "isCorrect": "false"
+                },
+                {
+                    "textoRespuesta": "The love and hate of people made them take charge of their project to not work on it anymore",
+                    "isCorrect": "false"
+                }
+            ]
+        }
+    ]
+}
