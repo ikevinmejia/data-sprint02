@@ -6,7 +6,22 @@
             "email": "avasarala@un.com",
             "phone": "123456789",
             "password": "1234",
-            "coins": "0"
+            "coins": "0",
+            "transations" : [
+                {
+                    "hash" : "1234",
+                    "valorPagado": "0",
+                    "fecha": "07/26/2022"
+                }
+            ],
+            "wallet": [
+                {
+                    "cardNumber": "1234567",
+                    "cardName": "Chrisjen Avasarala",
+                    "expireDate" : "07/27/2023",
+                    "cvv": "07/25"
+                }
+            ]
         }
     ],
 
@@ -288,6 +303,99 @@
                 {
                     "textoRespuesta": "The love and hate of people made them take charge of their project to not work on it anymore",
                     "isCorrect": "false"
+                }
+            ]
+        }
+    ],
+
+    "courses" : [
+        {
+            "id": "1",
+            "name": "Elementary",
+            "intro" : "For beginners and intermediates",
+            "descripcion": "For beginners and advanced consists of 25 topics over 3 hours of study includes video text and pictures for study",
+            "price" : "520",
+            "img" : "https://res.cloudinary.com/dzsd7vfjr/image/upload/v1658887090/tarjeta1_dfj8zb.png",
+            "duration" : "3:00h",
+            "videos": "8 video",
+            "theme" : "20 theme",
+            "question" : [
+                {
+                    "video": "https://www.youtube.com/watch?v=Y6aYx_KKM7A",
+                    "titulo": "Introduce"
+                },
+                {
+                    "video": "https://www.youtube.com/watch?v=SxvNmOTrohw",
+                    "titulo": "How to fall sleep"
+                },
+                {
+                    "video": "https://www.youtube.com/watch?v=BGtROJeMPeE",
+                    "titulo": "What is LoL?"
+                },
+                {
+                    "video": "https://www.youtube.com/watch?v=4VpqiVBoFkk",
+                    "titulo": "Sounds ASMR"
+                },
+                {
+                    "video": "https://www.youtube.com/watch?v=k9WqpQp8VSU",
+                    "titulo": "How I would learn to code"
+                },
+                {
+                    "video": "https://www.youtube.com/watch?v=m7Jz4mONK9s",
+                    "titulo": "How to master audio in Premiere Pro"
+                },
+                {
+                    "video": "https://www.youtube.com/watch?v=e-I5u5hyoxY",
+                    "titulo": "Learn to talk in public"
+                },
+                {
+                    "video": "https://www.youtube.com/watch?v=ASCLobnX70k",
+                    "titulo": "Master Photoshop"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Advanced",
+            "intro" : "For advanced",
+            "descripcion": "For beginners and advanced consists of 25 topics over 3 hours of study includes video text and pictures for study",
+            "price" : "980",
+            "img" : "https://res.cloudinary.com/dzsd7vfjr/image/upload/v1658887090/tarjeta2_sdmvx5.png",
+            "duration" : "6:00h",
+            "videos": "8 video",
+            "theme" : "45 theme",
+            "question" : [
+                {
+                    "video": "https://www.youtube.com/watch?v=0yeua71j5b4",
+                    "titulo": "Introduce"
+                },
+                {
+                    "video": "https://www.youtube.com/watch?v=dG3niF2GgHM",
+                    "titulo": "How to wake up"
+                },
+                {
+                    "video": "https://www.youtube.com/watch?v=Xoz31I1FuiY",
+                    "titulo": "Learn MUI"
+                },
+                {
+                    "video": "https://www.youtube.com/watch?v=wI2vqXsjsIo",
+                    "titulo": "Getting Started Chakra UI"
+                },
+                {
+                    "video": "https://www.youtube.com/watch?v=KVLTxKyxioA",
+                    "titulo": "The science of teaching"
+                },
+                {
+                    "video": "https://www.youtube.com/watch?v=hK51upU5bkU",
+                    "titulo": "How to build a computer"
+                },
+                {
+                    "video": "https://www.youtube.com/watch?v=dFSia1LZI4Y",
+                    "titulo": "What is graphic design"
+                },
+                {
+                    "video": "https://www.youtube.com/watch?v=Dv7gLpW91DM",
+                    "titulo": "Why programming is important"
                 }
             ]
         }
